@@ -17,6 +17,18 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 ⛹️‍♂️ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionados.
 
+
+## :hammer:Ferramentas que utilizamos:wrench:: 
+
+- MYSQL
++ AZURE DATA STUDIO
+* MICROSOFT EXCEL 
++ GOOGLE SHEET
+- CANVA
+* GITHUB
+- MYSQL WORKBENCH
+
+
 # 💬 UM LEVE RESUMO DO TEMA: NBA
 
 - Fundada em junho de 1946, em Nova York, a NBA (National Basketball Association) é considerada uma das mais importantes ligas de basquetebol mundial. A liga possui 29 equipes dos Estados Unidos e uma equipe do Canadá.
@@ -78,12 +90,3 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 
 
-## :hammer:Ferramentas que utilizamos:wrench:: 
-
-- MYSQL
-+ AZURE DATA STUDIO
-* MICROSOFT EXCEL 
-+ GOOGLE SHEET
-- CANVA
-* GITHUB
-- MYSQL WORKBENCH

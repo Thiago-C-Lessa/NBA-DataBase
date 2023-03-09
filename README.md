@@ -74,7 +74,7 @@ manipular esses dados. Criamos gráficos com base nos dados e criamos algumas pe
 + GOOGLE SHEET
 - CANVA
 * GITHUB
-
+- MYSQL WORKBENCH
 
 
 

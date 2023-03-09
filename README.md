@@ -43,7 +43,7 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 
 
-:basketball:### Quais times têm mais recordes de pontos dentro de casa?  
+### :basketball: Quais times têm mais recordes de pontos dentro de casa?  
 
 #### Para selecionar delimitamos um limite de 10 times para aparecer na tabela.
 
@@ -51,7 +51,7 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 
 
-:basketball:### Quais times têm mais recordes de pontos fora de casa?  
+### :basketball: Quais times têm mais recordes de pontos fora de casa?  
 
 #### Para selecionar delimitamos um limite de 10 times para aparecer na tabela.
 

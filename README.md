@@ -45,7 +45,7 @@ muita coisa possa entender o tamanho da dimensão dos times.
 
 
 ### :bouncing_ball_person:Boston Celtics - Britney Spears :woman_singer::
-######Tal qual a "Princesinha do Pop", o Boston Celtics é uma das equipes mais consolidadas e famosas do mundo. O problema, porém, é a dificuldade de ser rival de Lakers/Madonna.
+###### Tal qual a "Princesinha do Pop", o Boston Celtics é uma das equipes mais consolidadas e famosas do mundo. O problema, porém, é a dificuldade de ser rival de Lakers/Madonna.
 
 
 

@@ -106,7 +106,11 @@ muita coisa possa entender o tamanho da dimensão dos times.
 
 [<img src="https://github.com/Thiago-C-Lessa/NBA-DataBase/blob/main/recorde_pontos_fora.png">]
 
+### :basketball: Quais times têm mais recordes de pontos fora de casa? 
 
+#### Para selecionar delimitamos um limite de 10 times para aparecer na tabela.
+
+![times-mais-vitorias (1)](https://user-images.githubusercontent.com/115082857/224056218-38115c3b-542c-4848-a8a7-e72da0294dd3.png)
 
 
 

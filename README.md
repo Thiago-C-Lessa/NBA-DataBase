@@ -28,27 +28,34 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 ![nba2](https://user-images.githubusercontent.com/107886724/223896952-1e7e3af4-29db-437d-b744-a765cc1853c5.jpg)
 
-<h1 align="center"> :basketball:  Os times da NBA como divas pop por Guilherme Sacco, o colunista da ESPN fez uma comparação entre os times da NBA 
+<h1 align="center"> :basketball:  Os times da NBA como DIVAS POP </h1> 
+####Por Guilherme Sacco, o colunista da ESPN fez uma comparação entre os times da NBA 
 com o show business pop, vamos elencar aqui quatro dessas comparações para aqueles que não curte basquete ou não entende 
-muita coisa possa entender o tamanho da dimensão dos times. 
- </h1> 
-### :bouncing_ball_person:Larkers - Madonna: 
-#### Os donos da brincadeira. Os que transcendem gerações, que inventaram o "showtime" no basquete e revolucionaram a maneira de se fazer um show na indústria pop. Los Angeles Lakers e Madonna é a comparação perfeita. As luzes de Hollywood brilham mais do que todas as outras, não importa a fase.
+muita coisa possa entender o tamanho da dimensão dos times.
+
+ 
+### :bouncing_ball_person:Larkers - Madonna :woman_singer:: 
+##### Os donos da brincadeira. Os que transcendem gerações, que inventaram o "showtime" no basquete e revolucionaram a maneira de se fazer um show na indústria pop. Los Angeles Lakers e Madonna é a comparação perfeita. As luzes de Hollywood brilham mais do que todas as outras, não importa a fase.
 
 
 
-### :bouncing_ball_person:Warriors - Beyoncé
-##### A dona da nova geração. A rainha dos millenials. A que é impossível você se sentir neutro: ou você ama ou odeia. Beyoncé é o que o Golden State Warriors foi nesta década.
+### :bouncing_ball_person:Warriors - Beyoncé :woman_singer::
+###### A dona da nova geração. A rainha dos millenials. A que é impossível você se sentir neutro: ou você ama ou odeia. Beyoncé é o que o Golden State Warriors foi nesta década.
 
 
 
-### :bouncing_ball_person:Boston Celtics - Britney Spears 
-#####Tal qual a "Princesinha do Pop", o Boston Celtics é uma das equipes mais consolidadas e famosas do mundo. O problema, porém, é a dificuldade de ser rival de Lakers/Madonna.
+### :bouncing_ball_person:Boston Celtics - Britney Spears :woman_singer::
+######Tal qual a "Princesinha do Pop", o Boston Celtics é uma das equipes mais consolidadas e famosas do mundo. O problema, porém, é a dificuldade de ser rival de Lakers/Madonna.
 
 
 
-### :bouncing_ball_person:Chicago Bulls - Mariah Carey 
-#### Assim como Mariah Carey, os Bulls dominaram os anos 90. Ganharam tudo, foram condecorados de todas as maneiras possíveis e, inclusive, considerados os melhores de todos os tempos. O problema é que a magia acabou, mas a arrogância não...
+### :bouncing_ball_person:Chicago Bulls - Mariah Carey :woman_singer::
+##### Assim como Mariah Carey, os Bulls dominaram os anos 90. Ganharam tudo, foram condecorados de todas as maneiras possíveis e, inclusive, considerados os melhores de todos os tempos. O problema é que a magia acabou, mas a arrogância não...
+
+
+
+### :bouncing_ball_person:Miami Heat - Rihanna :woman_singer:: 
+##### O sangue latino, o domínio quase que absoluto por alguns anos no começo da década e, finalmente, "a desistência". Assim como Rihanna parece ter desistido de fazer música para se concentrar em seus outros projetos, o Miami Heat parece ter desistido do projeto de dominar a NBA e deixou de lado oportunidades de buscar Russell Westbrook para, bem, investir em outros.
 
 
 # 📖 CONSULTAS:

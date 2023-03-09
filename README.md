@@ -28,6 +28,8 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 # 📖 CONSULTAS:
 
+- Na documentação foi feita a extração de informações que seriam necessárias para a criação do dashboard. Com isso, nosso squad criou as consultas para que o banco de dados realizasse o retorno.
+
 ### :basketball: QUAIS SÃO OS TIMES MAIS ANTIGOS DA NBA?
 
 #### Para selecionar delimitamos um limite de 10 times para poder aparecer na tabela.

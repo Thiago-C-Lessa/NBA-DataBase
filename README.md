@@ -29,7 +29,7 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 ![nba2](https://user-images.githubusercontent.com/107886724/223896952-1e7e3af4-29db-437d-b744-a765cc1853c5.jpg)
 
 <h1 align="center"> :basketball:  Os times da NBA como DIVAS POP </h1> 
-Por Guilherme Sacco, o colunista da ESPN fez uma comparação entre os times da NBA 
+- Para bom entendedor, comparação com diva pop basta. Por Guilherme Sacco, o colunista da ESPN fez uma comparação entre os times da NBA 
 com o show business pop, vamos elencar aqui quatro dessas comparações para aqueles que não curte basquete ou não entende 
 muita coisa possa entender o tamanho da dimensão dos times.
 
@@ -106,11 +106,7 @@ muita coisa possa entender o tamanho da dimensão dos times.
 
 [<img src="https://github.com/Thiago-C-Lessa/NBA-DataBase/blob/main/recorde_pontos_fora.png">]
 
-### :basketball: Quais times têm mais recordes de pontos fora de casa? 
 
-#### Para selecionar delimitamos um limite de 10 times para aparecer na tabela.
-
-![times-mais-vitorias (1)](https://user-images.githubusercontent.com/115082857/224056218-38115c3b-542c-4848-a8a7-e72da0294dd3.png)
 
 
 

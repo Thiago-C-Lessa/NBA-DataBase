@@ -65,6 +65,10 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 [<img src="https://github.com/Thiago-C-Lessa/NBA-DataBase/blob/main/recorde_pontos_fora.png">]
 
+# 📈 GRÁFICOS:
+
+- Após a realização das consultas e extração das informações, utilizamos o canva para explicitar de forma gráfica e facilitar o entendimento.
+
 
 
 

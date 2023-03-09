@@ -1,3 +1,6 @@
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00d9&size=40&center=true&vCenter=true&width=1000&lines=+DashBoard+Banco+de+Dados+Squad6)
+
 <h1 align="center"> :basketball:  NBA-DataBase </h1> 
 
 O objetivo desse projeto é montar um dashboard com base no conjunto de dados que nos foi disponibilizado pela Resilia. Após escolher qual tema, iremos analisar e manipular esses dados utilizando a ferramenta MySQL Workbench.

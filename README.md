@@ -21,7 +21,7 @@ manipular esses dados. Criamos gráficos com base nos dados e criamos algumas pe
 
 - Fundada em junho de 1946, em Nova York, a NBA (National Basketball Association) é considerada uma das mais importantes ligas de basquetebol mundial. A liga possui 29 equipes dos Estados Unidos e uma equipe do Canadá.
 
-- Atualmente, 30 franquias compõem a liga, sendo 29 espalhadas pelos Estados Unidos e uma no Canadá, o Toronto Raptors.
+- Atualmente, 30 franquias compõem a liga, sendo 29 espalhadas pelos Estados Unidos e uma no Canadá, o Toronto Raptors. Essas 30 franquias são separadas entre Conferência Leste e Conferência Oeste, cada uma delas existem 3 divisões com 5 times cada, totalizando 15 times em cada franquia, tornando a disputa mais regionalizada. Ao decorrer da temporada regular, cada franquia joga 41 jogos dentro de casa e 41 fora de casa, totalizando 82 jogos, ocorrem 2 jogos contra cada time de outra conferência e na mesma divisão são quatro partidas contra cada equipe. 
 
 ![nba2](https://user-images.githubusercontent.com/107886724/223896952-1e7e3af4-29db-437d-b744-a765cc1853c5.jpg)
 
@@ -46,6 +46,22 @@ manipular esses dados. Criamos gráficos com base nos dados e criamos algumas pe
 
 
 
+:basketball:### Quais times têm mais recordes de pontos dentro de casa?  
+
+#### Para selecionar delimitamos um limite de 10 times para aparecer na tabela.
+
+[<img src="https://github.com/Thiago-C-Lessa/NBA-DataBase/blob/main/recorde_pontos_casa.png">]
+
+
+
+:basketball:### Quais times têm mais recordes de pontos fora de casa?  
+
+#### Para selecionar delimitamos um limite de 10 times para aparecer na tabela.
+
+[<img src="https://github.com/Thiago-C-Lessa/NBA-DataBase/blob/main/recorde_pontos_fora.png">]
+
+
+
 
 
 
@@ -58,7 +74,6 @@ manipular esses dados. Criamos gráficos com base nos dados e criamos algumas pe
 + GOOGLE SHEET
 - CANVA
 * GITHUB
-
 
 
 

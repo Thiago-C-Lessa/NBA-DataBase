@@ -29,7 +29,7 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 ![nba2](https://user-images.githubusercontent.com/107886724/223896952-1e7e3af4-29db-437d-b744-a765cc1853c5.jpg)
 
 <h1 align="center"> :basketball:  Os times da NBA como DIVAS POP </h1> 
-####Por Guilherme Sacco, o colunista da ESPN fez uma comparação entre os times da NBA 
+Por Guilherme Sacco, o colunista da ESPN fez uma comparação entre os times da NBA 
 com o show business pop, vamos elencar aqui quatro dessas comparações para aqueles que não curte basquete ou não entende 
 muita coisa possa entender o tamanho da dimensão dos times.
 

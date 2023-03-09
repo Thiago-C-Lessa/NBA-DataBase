@@ -62,6 +62,17 @@ muita coisa possa entender o tamanho da dimensão dos times.
 
 - Na documentação foi feita a extração de informações que seriam necessárias para a criação do dashboard. Com isso, nosso squad criou as consultas para que o banco de dados realizasse o retorno.
 
+## :hammer:Ferramentas que utilizamos:wrench:: 
+
+- MYSQL
++ AZURE DATA STUDIO
+* MICROSOFT EXCEL 
++ GOOGLE SHEET
+- CANVA
+* GITHUB
+- MYSQL WORKBENCH
+
+
 ### :basketball: QUAIS SÃO OS TIMES MAIS ANTIGOS DA NBA?
 
 #### Para selecionar delimitamos um limite de 10 times para poder aparecer na tabela.
@@ -104,12 +115,3 @@ muita coisa possa entender o tamanho da dimensão dos times.
 
 
 
-## :hammer:Ferramentas que utilizamos:wrench:: 
-
-- MYSQL
-+ AZURE DATA STUDIO
-* MICROSOFT EXCEL 
-+ GOOGLE SHEET
-- CANVA
-* GITHUB
-- MYSQL WORKBENCH

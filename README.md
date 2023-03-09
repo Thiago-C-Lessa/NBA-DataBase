@@ -26,6 +26,7 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 ![nba2](https://user-images.githubusercontent.com/107886724/223896952-1e7e3af4-29db-437d-b744-a765cc1853c5.jpg)
 
 
+# 📖 CONSULTAS:
 
 ### :basketball: QUAIS SÃO OS TIMES MAIS ANTIGOS DA NBA?
 

@@ -1,6 +1,9 @@
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00d9&size=40&center=true&vCenter=true&width=1000&lines=+DashBoard+Banco+de+Dados+Squad6)
-
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&duration=4000&pause=1000&color=17408B&width=610&height=80&lines=Get+ready+to+the+SLAM+JAM!!!)](https://git.io/typing-svg)
+  
+<div>
+  
 <h1 align="center"> :basketball:  NBA-DataBase </h1> 
 
 O objetivo desse projeto é montar um dashboard com base no conjunto de dados que nos foi disponibilizado pela Resilia. Após escolher qual tema, iremos analisar e manipular esses dados utilizando a ferramenta MySQL Workbench.
@@ -17,18 +20,6 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 ⛹️‍♂️ Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionados.
 
-
-## :hammer:Ferramentas que utilizamos:wrench:: 
-
-- MYSQL
-+ AZURE DATA STUDIO
-* MICROSOFT EXCEL 
-+ GOOGLE SHEET
-- CANVA
-* GITHUB
-- MYSQL WORKBENCH
-
-
 # 💬 UM LEVE RESUMO DO TEMA: NBA
 
 - Fundada em junho de 1946, em Nova York, a NBA (National Basketball Association) é considerada uma das mais importantes ligas de basquetebol mundial. A liga possui 29 equipes dos Estados Unidos e uma equipe do Canadá.
@@ -41,8 +32,6 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 # 📖 CONSULTAS:
 
 - Na documentação foi feita a extração de informações que seriam necessárias para a criação do dashboard. Com isso, nosso squad criou as consultas para que o banco de dados realizasse o retorno.
-
-# RETORNO DAS CONSULTAS:
 
 ### :basketball: QUAIS SÃO OS TIMES MAIS ANTIGOS DA NBA?
 
@@ -77,9 +66,6 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 [<img src="https://github.com/Thiago-C-Lessa/NBA-DataBase/blob/main/recorde_pontos_fora.png">]
 
-# 📈 GRÁFICOS:
-
-- Após a realização das consultas e extração das informações, utilizamos o canva para explicitar de forma gráfica e facilitar o entendimento.
 
 
 
@@ -89,4 +75,12 @@ O objetivo desse projeto é montar um dashboard com base no conjunto de dados qu
 
 
 
+## :hammer:Ferramentas que utilizamos:wrench:: 
 
+- MYSQL
++ AZURE DATA STUDIO
+* MICROSOFT EXCEL 
++ GOOGLE SHEET
+- CANVA
+* GITHUB
+- MYSQL WORKBENCH

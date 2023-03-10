@@ -80,7 +80,7 @@ muita coisa possa entender o tamanho da dimensão dos times.
 |---|---|---|---|
 |Thiago Lessa|---| [Github](https://github.com/Thiago-C-Lessa)|[LinkedIn](https://www.linkedin.com/in/thiago-lessa-9424831ba/)|
 |Raiane Gomes|---|[Github](https://github.com/Raiane11)|[LinkedIn](https://www.linkedin.com/in/raiane-gomes-b77462229/)|
-|Felppe Ribeiro|---|[Github](https://github.com/felippe-cpu)|[LinkedIn](https://www.linkedin.com/in/felippe-melo-020a73162/)|
+|Felippe Ribeiro|---|[Github](https://github.com/felippe-cpu)|[LinkedIn](https://www.linkedin.com/in/felippe-melo-020a73162/)|
 |Tauane Alves|---|[Github](https://github.com/tauanealvesg)|[LinkedIn](https://www.linkedin.com/in/tauanealvesg/)|
 |Camilla Silva|---|[Github](https://github.com/fdscamilla)|[LinkedIn](https://www.linkedin.com/in/fdscamillaarq/)|
 
